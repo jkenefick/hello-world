@@ -3,3 +3,5 @@
 # feature1
 # more of it
 # more from master
+#and more from feature
+#and another from feature
