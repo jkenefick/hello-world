@@ -6,5 +6,6 @@
 #and more from feature
 #and another from feature
 #feature2
+#more feature 2
 # more from master
 #made my change in feature branch 1
