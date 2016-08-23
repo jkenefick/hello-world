@@ -11,5 +11,7 @@
 #made my change in feature branch 1
 #made my change in feature branch 3
 #made my change in feature branch 4
+masterful change
+jack change
 feature conflict
 more conflict
