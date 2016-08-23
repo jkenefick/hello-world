@@ -14,7 +14,5 @@
 masterful change
 jack change
 feature conflict
-<<<<<<< a69ec78ac27db9874aaa7a88600db58322f8c91e
 more conflict
-=======
->>>>>>> feature in conflict
+feature in conflict
