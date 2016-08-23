@@ -12,3 +12,4 @@
 #made my change in feature branch 3
 #made my change in feature branch 4
 feature conflict
+more conflict
